@@ -119,10 +119,14 @@ p, ol, dl{
 }
 .footer__icon{
     background-color: #ffffff;
+    border: 1px solid #782221 ;
     border-radius: 20%;
     margin: 2px;
     width: 60px;
     height: 60px;
+}
+.footer__icon:hover{
+    border:1px solid gold;
 }
 small{
     background-color: #782221;
